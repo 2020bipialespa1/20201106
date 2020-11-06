@@ -14,6 +14,8 @@
         </style>
         //Cambio realizado por master  
         <h1>Cambio del archivo de Bienvenida</h1>
+        //Nuevo Comentario
+        <h2>Nuevo Commit</h2>
         <style>
             body {
                 font-family: 'Nunito';
